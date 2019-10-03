@@ -11,10 +11,12 @@ Nota: Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto in
 https://github.com/Github-Classroom-Cybros/Learn-Github
 https://guides.github.com/features/mastering-markdown/ 
 
-Cabeceras:
+- Cabeceras:
 
 # Esto es una cabcera h1
 
+- Texto:
 
+Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto incluirá una carpeta “Tema1”, Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto incluirá una carpeta “Tema1”.
 
 
