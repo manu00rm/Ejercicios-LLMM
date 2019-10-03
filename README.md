@@ -30,3 +30,5 @@ Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM
 -> Gráfico:
 
 
+-> Tabla:
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjD3aCezv_kAhUTBGMBHVIwDGwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.elmundo.es%2Ftecnologia%2Ftrucos%2F2019%2F06%2F20%2F5d0b9b7afdddff800b8b4584.html&psig=AOvVaw20EWqqD8z8dk-D3g7gaSYz&ust=1570175638117748
