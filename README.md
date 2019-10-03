@@ -30,5 +30,6 @@ Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM
 -> Gráfico:
 
 
+
 -> Tabla:
 
