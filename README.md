@@ -19,4 +19,10 @@ https://guides.github.com/features/mastering-markdown/
 
 Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto incluirá una carpeta “Tema1”, Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto incluirá una carpeta “Tema1”.
 
+- Lista
 
+* Número 1
+* Número 2
+  * Número 1a
+  * Número 2a
+    * Número 3a
