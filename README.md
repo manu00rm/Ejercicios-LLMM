@@ -25,4 +25,8 @@ Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM
 * Número 2
   * Número 1a
   * Número 2a
-    * Número 3a
+    * Número 1b
+    
+-> Gráfico:
+
+
