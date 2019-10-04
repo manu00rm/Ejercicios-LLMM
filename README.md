@@ -32,7 +32,7 @@ Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM
     
 -> Gráfico:
 
-
+![Google](15610416252860.jpg)
 
 -> Tabla:
 
