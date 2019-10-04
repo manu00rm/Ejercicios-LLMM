@@ -7,6 +7,9 @@ Nota: Crea un repositorio en Github llamado “EjerciciosLLMM”. El proyecto in
 
 **3. ¿Qué es SVG? Busca un ejemplo.**
 
+SVG son las siglas de Scalable Vector Graphics, traducido al español como gráficos basados en vectores escalables. Podemos decir que es un formato gráfico basado en XML para crear archivos vectoriales en 2D, con un lenguaje de marcado por medio de etiquetas.
+
+
 **4. ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un proyecto nuevo que incluya una página “README.md”. Utiliza markdown que incluya varias cabeceras, texto, una lista, un gráfico y una tabla. Previamente se recomienda leer:**
 https://github.com/Github-Classroom-Cybros/Learn-Github
 https://guides.github.com/features/mastering-markdown/ 
