@@ -33,3 +33,7 @@ Esto es un texto simple. Crea un repositorio en Github llamado “EjerciciosLLMM
 
 -> Tabla:
 
+Campo 1 | Campo2
+------------ | -------------
+Campo 1.1 | Campo 2.1
+Campo 1.2 | Campo 2.2
