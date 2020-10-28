@@ -14,6 +14,8 @@
         <id>00001</id>
     </libro1>
     <br>
+    <br>
+    <br>
     <libro2>
        <título>El Escarabajo de Oro</título>
         <br>
